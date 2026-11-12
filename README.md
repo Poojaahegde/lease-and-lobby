@@ -2,8 +2,6 @@
 
 A resident portal prototype by Pooja Hegde.
 
-[Try the resident demo](https://poojahegdeportfolio.netlify.app/apps/lease-lobby/) · [Read the portfolio case study](https://poojahegdeportfolio.netlify.app/cases/lease-and-lobby.html)
-
 ![Lease & Lobby resident dashboard](resident-dashboard.png)
 
 ## Why I built it
